@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920114432644",
+    "project_id": "to-do-hez1v6",
+    "storage_bucket": "to-do-hez1v6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920114432644:android:59e6d671857c909d7890d1",
+        "android_client_info": {
+          "package_name": "com.mycompany.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8nireAP5aCf2dHfnk2ZBMP7gNxTe3V2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
